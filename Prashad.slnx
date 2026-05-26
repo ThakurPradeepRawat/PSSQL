@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Prashad.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
