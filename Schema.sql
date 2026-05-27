@@ -37,3 +37,6 @@ GO
 
 CREATE SCHEMA admin;
 GO
+
+CREATE SCHEMA common;
+GO
